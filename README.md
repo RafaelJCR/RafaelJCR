@@ -58,7 +58,7 @@
 |---------|-------------|-------|------|
 | **SUYD AI Agent** | AI-powered conversational assistant with Qwen 2.5 72B | Next.js, HuggingFace, Vercel | [Live Demo](https://suyd-ai-assistant.vercel.app/) |
 | **SUYD Workflow AI** | Business automation platform — email classification, document analysis, lead qualification | Next.js, Qwen 72B, Vercel | [Live Demo](https://suyd-workflow-ai.vercel.app/) |
-| **SUYD Website** | Professional digital solutions company website — modern, responsive, SEO-optimized | HTML5, CSS3, JavaScript | [Repo](https://github.com/RafaelJCR/suyd-website) |
+| **SUYD Website** | Professional digital solutions company website — modern, responsive, SEO-optimized | HTML5, CSS3, JavaScript | [Live Site](https://rafaeljcr.github.io/suyd-website/) |
 | **DEVI-TOUR** | Full-stack tourism booking platform with PayPal & WhatsApp integration | HTML/CSS/JS, Express, PayPal API | — |
 
 ---
