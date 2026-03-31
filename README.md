@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - Founder of **SUYD** — building AI-powered software for real-world business automation  
 - Focused on **AI agents**, **LLM integration**, and **intelligent workflows**  
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 
 **Languages**  
 JavaScript · TypeScript · Python · SQL · HTML · CSS  
@@ -37,9 +37,9 @@ AI Agents · Workflow Automation · LLM Integration · API Integration · System
 
 ---
 
-### ⚡ Featured Projects
+###  Featured Projects
 
-#### 🤖 SUYD AI Agent  
+####  SUYD AI Agent  
 AI-powered conversational assistant for business automation  
 - Context-aware responses  
 - Multi-language support  
@@ -47,11 +47,11 @@ AI-powered conversational assistant for business automation
 - Designed for customer service automation  
 
 **Stack:** Next.js · HuggingFace · LLMs · Vercel  
-🔗 https://suyd-ai-assistant.vercel.app/
+ https://suyd-ai-assistant.vercel.app/
 
 ---
 
-#### ⚙️ SUYD Workflow AI  
+####  SUYD Workflow AI  
 AI-driven automation platform using intelligent agents  
 - Email classification system  
 - Document data extraction  
@@ -59,19 +59,19 @@ AI-driven automation platform using intelligent agents
 - Modular agent-based architecture  
 
 **Stack:** Next.js · LLMs · Vercel  
-🔗 https://suyd-workflow-ai.vercel.app/
+ https://suyd-workflow-ai.vercel.app/
 
 ---
 
-#### 🌐 SUYD Website  
+####  SUYD Website  
 Corporate website focused on performance, SEO, and UX  
 
 **Stack:** HTML · CSS · JavaScript  
-🔗 https://rafaeljcr.github.io/suyd-website/
+ https://rafaeljcr.github.io/suyd-website/
 
 ---
 
-#### 🌍 DEVI-TOUR  
+####  DEVI-TOUR  
 Full-stack tourism platform with payment and communication integrations  
 - PayPal integration  
 - WhatsApp automation  
@@ -81,7 +81,7 @@ Full-stack tourism platform with payment and communication integrations
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelJCR&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
